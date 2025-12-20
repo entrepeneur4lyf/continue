@@ -62,8 +62,8 @@ dependencies {
     }
 
     // Add Log4j 2.x explicitly
-    implementation("org.apache.logging.log4j:log4j-core:2.20.0")
-    implementation("org.apache.logging.log4j:log4j-api:2.20.0")
+    implementation("org.apache.logging.log4j:log4j-core:2.25.3")
+    implementation("org.apache.logging.log4j:log4j-api:2.25.3")
     testImplementation(kotlin("test"))
 }
 
